@@ -1,3 +1,3 @@
 # Artificial Intelligence course
 
-Implementation of some AI/ML tasks from course artificial intelligence.
+Implementation of some AI/ML tasks for course artificial intelligence.
